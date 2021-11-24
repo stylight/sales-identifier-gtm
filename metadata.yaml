@@ -2,5 +2,9 @@ homepage: "https://stylight.com"
 documentation: "https://partner.stylight.com"
 versions:
   # Latest version
+  - sha: 2ef3df4a78f83a4f4d56450737a9efa142880881
+    changeNotes: Update documentation
+
+  # Initial version
   - sha: a75955794dc3e9a63a230d6a22327f37d7cd3f0d
     changeNotes: Initial release
